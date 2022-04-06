@@ -1,4 +1,4 @@
-package com.kreitek.refactor.mal;
+package com.kreitek.refactor.mal.Documentos;
 
 public enum TipoUltCaracter
 {
